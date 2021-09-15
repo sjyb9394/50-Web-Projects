@@ -1,4 +1,4 @@
-50 Project
+50 Project (HTML/CSS/JavaScript)
 ==========
 ---
 
@@ -9,5 +9,5 @@
 
 | Project Name | Link |
 |:---:|:---:|
-|Expanding Card| # |
+|Expanding Card| [Go to Link](https://codepen.io/sjyb9394/pen/GREWwmw) |
 |Progress Steps| # |
