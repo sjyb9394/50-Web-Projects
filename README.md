@@ -10,4 +10,4 @@
 | Project Name | Link |
 |:---:|:---:|
 |Expanding Card| [Link](https://sjyb9394.github.io/50-Web-Projects/Expanding_Cards/index.html) |
-|Progress Steps| [Link](https://sjyb9394.github.io/50-Web-Projects/Progress_Steps/index.html) |
+|Progress Steps| [Link]() |
