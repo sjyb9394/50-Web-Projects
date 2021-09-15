@@ -9,5 +9,5 @@
 
 | Project Name | Link |
 |:---:|:---:|
-|Expanding Card| [Go to Link](https://codepen.io/sjyb9394/pen/GREWwmw) |
+|Expanding Card| [Go to Link](https://sjyb9394.github.io/50-Web-Projects/Expanding_Cards/index.html) |
 |Progress Steps| # |
