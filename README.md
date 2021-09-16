@@ -17,3 +17,4 @@
 |Scroll Animation| [Link](https://sjyb9394.github.io/50-Web-Projects/Scroll_Animation/index.html)|
 |Split Landing Page| [Link](https://sjyb9394.github.io/50-Web-Projects/Split_Landing_Page/index.html)|
 |Form Input Wave|[Link](https://sjyb9394.github.io/50-Web-Projects/Form_Input_Wave/index.html)|
+|Sound_Board|[Line](https://sjyb9394.github.io/50-Web-Projects/Sound_Board/index.html)|
