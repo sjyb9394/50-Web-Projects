@@ -13,3 +13,4 @@
 |Progress Steps| [Link](https://sjyb9394.github.io/50-Web-Projects/Progress_Steps/index.html) |
 |Rotating Navigation| [Link](https://sjyb9394.github.io/50-Web-Projects/Rotating_Navigation/index.html)|
 |Hidden Search| [Link](https://sjyb9394.github.io/50-Web-Projects/Hidden_Search/index.html)|
+|Blurring Loading| [Link](https://sjyb9394.github.io/50-Web-Projects/Blurry_Loading/index.html)|
