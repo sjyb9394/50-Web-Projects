@@ -23,3 +23,5 @@
 |FAQ Website| [Link](https://sjyb9394.github.io/50-Web-Projects/FAQ_Website/index.html)|
 |Random Choice Picker| [Link](https://sjyb9394.github.io/50-Web-Projects/Random_Choice_Picker/index.html)|
 |Animated Navigation| [Link](https://sjyb9394.github.io/50-Web-Projects/Animated_Navigation/index.html)|
+|Increment Counter| [Link](https://sjyb9394.github.io/50-Web-Projects/Increment_Counter/index.html)|
+|Drink Water|[Link](https://sjyb9394.github.io/50-Web-Projects/Drink_Water/index.html)|
