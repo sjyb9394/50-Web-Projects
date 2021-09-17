@@ -22,4 +22,4 @@
 |Event Keycode|[Link](https://sjyb9394.github.io/50-Web-Projects/Event_KeyCodes/index.html)|
 |FAQ Website| [Link](https://sjyb9394.github.io/50-Web-Projects/FAQ_Website/index.html)|
 |Random Choice Picker| [Link](https://sjyb9394.github.io/50-Web-Projects/Random_Choice_Picker/index.html)|
-
+|Animated Navigation| [Link](https://sjyb9394.github.io/50-Web-Projects/Animated_Navigation/index.html)|
