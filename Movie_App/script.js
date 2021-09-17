@@ -1,7 +1,7 @@
 const API_URL = 'https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=943ceec460504f86ded7a51476887abf&page=';
 const IMG_PATH = 'https://image.tmdb.org/t/p/w1280';
 const SEARCH_API = 'https://api.themoviedb.org/3/search/movie?api_key=943ceec460504f86ded7a51476887abf&page=';
-let TRAILER_API = 'http://api.themoviedb.org/3/movie/'
+let TRAILER_API = 'https://api.themoviedb.org/3/movie/'
 const VIDEO_PATH = '/videos?api_key=943ceec460504f86ded7a51476887abf&append_to_response=videos';
 const YOUTUBE_URL = 'https://www.youtube.com/watch?v=';
 
