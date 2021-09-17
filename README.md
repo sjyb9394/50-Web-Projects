@@ -21,4 +21,5 @@
 |Try Not to Laugh| [Link](https://sjyb9394.github.io/50-Web-Projects/Try_Not_To_Laugh/index.html)|
 |Event Keycode|[Link](https://sjyb9394.github.io/50-Web-Projects/Event_KeyCodes/index.html)|
 |FAQ Website| [Link](https://sjyb9394.github.io/50-Web-Projects/FAQ_Website/index.html)|
+|Random Choice Picker| [Link](https://sjyb9394.github.io/50-Web-Projects/Random_Choice_Picker/index.html)|
 
