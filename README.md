@@ -27,3 +27,5 @@
 |Drink Water|[Link](https://sjyb9394.github.io/50-Web-Projects/Drink_Water/index.html)|
 |Movie App|[Link](https://sjyb9394.github.io/50-Web-Projects/Movie_App/index.html)|
 |Background Slider|[Link](https://sjyb9394.github.io/50-Web-Projects/Background_Slider/index.html)|
+|Theme Clock|[Link](https://sjyb9394.github.io/50-Web-Projects/Theme_Clock/index.html)|
+|Button Ripple Effect| [Link](https://sjyb9394.github.io/50-Web-Projects/Button_Ripple_Effect/index.html)|
