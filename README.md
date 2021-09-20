@@ -30,3 +30,5 @@
 |Theme Clock|[Link](https://sjyb9394.github.io/50-Web-Projects/Theme_Clock/index.html)|
 |Button Ripple Effect| [Link](https://sjyb9394.github.io/50-Web-Projects/Button_Ripple_Effect/index.html)|
 |Drag N Drop|[Link](https://sjyb9394.github.io/50-Web-Projects/Drag_N_Drop/index.html)|
+|Drawing App|[Link](https://sjyb9394.github.io/50-Web-Projects/Drawing_App/index.html)|
+|Kinetic Loader|[Link](https://sjyb9394.github.io/50-Web-Projects/Kinetic_Loader/index.html)|
