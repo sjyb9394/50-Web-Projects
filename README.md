@@ -32,3 +32,6 @@
 |Drag N Drop|[Link](https://sjyb9394.github.io/50-Web-Projects/Drag_N_Drop/index.html)|
 |Drawing App|[Link](https://sjyb9394.github.io/50-Web-Projects/Drawing_App/index.html)|
 |Kinetic Loader|[Link](https://sjyb9394.github.io/50-Web-Projects/Kinetic_Loader/index.html)|
+|Content Placeholder|[Link](https://sjyb9394.github.io/50-Web-Projects/Content_Placeholder/index.html)|
+|Sticky Navigation|[Link](https://sjyb9394.github.io/50-Web-Projects/Sticky_Navigation/index.html)|
+|Vertical Slider|[Link](https://sjyb9394.github.io/50-Web-Projects/Vertical_Slider/index.html)|
