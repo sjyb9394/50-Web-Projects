@@ -36,3 +36,4 @@
 |Sticky Navigation|[Link](https://sjyb9394.github.io/50-Web-Projects/Sticky_Navigation/index.html)|
 |Vertical Slider|[Link](https://sjyb9394.github.io/50-Web-Projects/Vertical_Slider/index.html)|
 |Toast Notification|[Link](https://sjyb9394.github.io/50-Web-Projects/Toast_Notification/index.html)|
+|Github Profiles|[Link](https://sjyb9394.github.io/50-Web-Projects/Github_Profiles/index.html)|
