@@ -38,3 +38,6 @@
 |Toast Notification|[Link](https://sjyb9394.github.io/50-Web-Projects/Toast_Notification/index.html)|
 |Github Profiles|[Link](https://sjyb9394.github.io/50-Web-Projects/Github_Profiles/index.html)|
 |Double Heart|[Link](https://sjyb9394.github.io/50-Web-Projects/Double_Heart/index.html)|
+|Auto Text Effect|[Link](https://sjyb9394.github.io/50-Web-Projects/Auto_Text_Effect/index.html)|
+|Password Generator|[Link](https://sjyb9394.github.io/50-Web-Projects/Password_Generator/index.html)|
+|Animated Checkboxes|[Link](https://sjyb9394.github.io/50-Web-Projects/Animated_Checkboxes/index.html)|
