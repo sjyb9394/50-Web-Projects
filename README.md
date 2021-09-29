@@ -41,3 +41,5 @@
 |Auto Text Effect|[Link](https://sjyb9394.github.io/50-Web-Projects/Auto_Text_Effect/index.html)|
 |Password Generator|[Link](https://sjyb9394.github.io/50-Web-Projects/Password_Generator/index.html)|
 |Animated Checkboxes|[Link](https://sjyb9394.github.io/50-Web-Projects/Animated_Checkboxes/index.html)|
+|Notes App|[Link](https://sjyb9394.github.io/50-Web-Projects/Notes_App/index.html)|
+|Animated Countdown|[Link](https://sjyb9394.github.io/50-Web-Projects/Animated_Countdown/index.html)|
