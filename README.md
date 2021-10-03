@@ -44,3 +44,4 @@
 |Notes App|[Link](https://sjyb9394.github.io/50-Web-Projects/Notes_App/index.html)|
 |Animated Countdown|[Link](https://sjyb9394.github.io/50-Web-Projects/Animated_Countdown/index.html)|
 |Image Carousel|[Link](https://sjyb9394.github.io/50-Web-Projects/Image_Carousel/index.html)|
+|Hoverboard|[Link](https://sjyb9394.github.io/50-Web-Projects/Hoverboard/index.html)|
