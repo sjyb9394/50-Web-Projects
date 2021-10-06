@@ -45,3 +45,4 @@
 |Animated Countdown|[Link](https://sjyb9394.github.io/50-Web-Projects/Animated_Countdown/index.html)|
 |Image Carousel|[Link](https://sjyb9394.github.io/50-Web-Projects/Image_Carousel/index.html)|
 |Hoverboard|[Link](https://sjyb9394.github.io/50-Web-Projects/Hoverboard/index.html)|
+|Movile Tab Navigation|[Link](https://sjyb9394.github.io/50-Web-Projects/Mobile_Tab_Navigation/index.html)|
