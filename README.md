@@ -46,3 +46,4 @@
 |Image Carousel|[Link](https://sjyb9394.github.io/50-Web-Projects/Image_Carousel/index.html)|
 |Hoverboard|[Link](https://sjyb9394.github.io/50-Web-Projects/Hoverboard/index.html)|
 |Movile Tab Navigation|[Link](https://sjyb9394.github.io/50-Web-Projects/Mobile_Tab_Navigation/index.html)|
+|Password Strength Background|[Link](https://sjyb9394.github.io/50-Web-Projects/Password_Strength_Background/index.html)|
